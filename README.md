@@ -1,4 +1,7 @@
-# Detection-of-Vessel-Speed-Variation-Areas
+# ==============================================
+# Detection of Vessel Speed Variation Areas
+# ==============================================
 # References:
-# - Movement data analysis library: https://github.com/movingpandas/
-# - Time series change detection library: https://centre-borelli.github.io/ruptures-docs/
+# - Movement Data Analysis Library: https://github.com/movingpandas/
+# - Time Series Change Detection Library: https://centre-borelli.github.io/ruptures-docs/
+# ==============================================
